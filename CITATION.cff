@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using these metadata."
+title: "multiROCplot: An R/Shiny app for plotting and comparing multiple ROC curves"
+abstract: >-
+  multiROCplot is an interactive R/Shiny application for exploratory
+  diagnostic-accuracy analysis. It fits per-variable logistic models,
+  overlays multiple ROC curves with AUCs and confidence intervals,
+  computes univariate group-comparison tests (t-test or Mann-Whitney)
+  with optional FDR adjustment, and renders annotated boxplots, with
+  export of figures and results tables.
+type: software
+authors:
+  - family-names: "Peng"
+    given-names: "Junjie"
+    orcid: "https://orcid.org/0000-0002-3532-8431"
+version: "1.2.0"
+license: "GPL-3.0"
+repository-code: "https://github.com/JunjiePeng/multiROCplot"
+keywords:
+  - ROC curve
+  - AUC
+  - diagnostic accuracy
+  - biomarker
+  - logistic regression
+  - R
+  - Shiny
+  - bioinformatics
+  - biostatistics
