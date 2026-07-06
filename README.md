@@ -1,5 +1,7 @@
 # multiROCplot
 
+[![DOI](https://zenodo.org/badge/817356264.svg)](https://doi.org/10.5281/zenodo.21226310)
+
 **An R/Shiny app for plotting and comparing multiple ROC curves, with companion group-comparison statistics and boxplots.**
 
 `multiROCplot` is an interactive tool for exploratory diagnostic-accuracy analysis. You upload a table of predictors and a binary outcome, and the app fits per-variable logistic models, draws overlaid ROC curves with AUCs, computes univariate group-comparison tests, and renders publication-style boxplots — all exportable as figures and CSVs. It is aimed at biostatisticians, bioinformaticians, and clinical/translational researchers who want to screen candidate biomarkers quickly without writing analysis code each time.
@@ -81,7 +83,11 @@ This repository is the archived, citable form of the application. A planned next
 
 ## Citing this software
 
-If you use `multiROCplot` in your research, please cite it. See [`CITATION.cff`](CITATION.cff), or use the "Cite this repository" button on GitHub. Once archived on Zenodo, cite the DOI minted for the release.
+If you use `multiROCplot` in your research, please cite it. See [`CITATION.cff`](CITATION.cff), or use the "Cite this repository" button on GitHub. The archived version is available on Zenodo:
+
+> Peng, J. (2026). *multiROCplot: An R/Shiny app for plotting and comparing multiple ROC curves* (Version 1.2.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.21226310
+
+The DOI [10.5281/zenodo.21226310](https://doi.org/10.5281/zenodo.21226310) is the concept DOI and always resolves to the latest version.
 
 ## Licensing
 
