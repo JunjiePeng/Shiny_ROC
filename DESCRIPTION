@@ -4,7 +4,7 @@ Version: 1.2.0
 Authors@R:
     person(given = "Junjie",
            family = "Peng",
-           email = "pengjunjie1996@hotmail.com",
+           email = "junjie.peng.15@ucl.ac.uk",
            role = c("aut", "cre"),
            comment = c(ORCID = "0000-0002-3532-8431"))
 Description: An interactive Shiny application and supporting functions for

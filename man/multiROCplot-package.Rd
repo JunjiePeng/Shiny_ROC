@@ -18,7 +18,7 @@ Useful links:
 
 }
 \author{
-\strong{Maintainer}: Junjie Peng \email{pengjunjie1996@hotmail.com} (\href{https://orcid.org/0000-0002-3532-8431}{ORCID})
+\strong{Maintainer}: Junjie Peng \email{junjie.peng.15@ucl.ac.uk} (\href{https://orcid.org/0000-0002-3532-8431}{ORCID})
 
 }
 \keyword{internal}
