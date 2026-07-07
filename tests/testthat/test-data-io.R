@@ -1,7 +1,6 @@
 test_that("coerce_binary_group maps character levels to 0/1", {
   out <- coerce_binary_group(c("case", "control", "case", "control"))
   expect_setequal(unique(out), c(0, 1))
-  # factor order: "case" < "control", so case -> 0
   expect_equal(out[1], 0)
 })
 
